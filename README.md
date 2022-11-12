@@ -9,32 +9,39 @@
 
 #### Step 1. Go here > [Dev Portal Apps](https://discord.com/developers/applications) > Click on [New Application]
 - After you do so you'll be prompted with this modal. Add a name and agree to discord's policy and click on create.
-![Creating and Application](https://github.com/Kopiium/discord-active-developer/blob/main/assets/Screenshot%202022-11-11%20204128.jpg?raw=true)
+
+![Screenshot 2022-11-11 204128](https://user-images.githubusercontent.com/94048100/201468602-127be099-94e7-4cd4-b6fe-7c7f74a2ee89.jpg)
 
 
 
 ### Step 2. Navigate to the bot section and click on the [Add Bot]
 - If you already have a bot, skip this part.
-![Creating and Application](https://github.com/Kopiium/discord-active-developer/blob/main/assets/Screenshot%202022-11-11%20204329.jpg?raw=true)
+
+![Screenshot 2022-11-11 204329](https://user-images.githubusercontent.com/94048100/201468621-06f24028-cd80-4f7d-820c-63d476afc325.jpg)
 
 ### Step 3. Now to get the bot token we just need to click on [Reset Token]
 - You'll be prompted with a modal after you hit the button to confirm, just agree to it.
 - If you have 2FA enabled you need to enter the OTP you have on your authenticator.
+![Screenshot 2022-11-11 204613](https://user-images.githubusercontent.com/94048100/201468638-f0091079-e27c-4aaf-b7e8-aca6ac378ea1.jpg)
 
-![Creating and Application](https://github.com/Kopiium/discord-active-developer/blob/main/assets/Screenshot%202022-11-11%20204613.jpg?raw=true)
+
 ### Step 3.1 Scroll down and enable these just incase, lest discord spanks you with a fat error code.
 
-![](https://github.com/Kopiium/discord-active-developer/blob/main/assets/Screenshot%202022-11-11%20205642.jpg?raw=true)
+![Screenshot 2022-11-11 205642](https://user-images.githubusercontent.com/94048100/201468649-04a0bee4-5fdd-4d92-bf12-16fb6fdee4e5.jpg)
+
 
 ### Step 4. Click on the [Oauth2] Section above [Bot] and go to the [URL Genereator] Sub section
 - click on bot and application commands and give it admin perms
-![](https://github.com/Kopiium/discord-active-developer/blob/main/assets/Screenshot%202022-11-11%20205821.jpg?raw=true)
+![Screenshot 2022-11-11 205821](https://user-images.githubusercontent.com/94048100/201468676-cbeca039-cc55-4e95-915c-d964cf596d5f.jpg)
+
 - just like this 
-![](https://github.com/Kopiium/discord-active-developer/blob/main/assets/Screenshot%202022-11-11%20205856.jpg?raw=true)
+![Screenshot 2022-11-11 205856](https://user-images.githubusercontent.com/94048100/201468689-4826a022-b3f7-4c6a-9bd2-a87a837228dd.jpg)
+
 
 - then scroll down and copy the link thats given to you. paste that link in your browser and add the bot to your server
 - after you add the bot to your server, its still offline. The next steps will walk you through how to launch it :)
-![](https://github.com/Kopiium/discord-active-developer/blob/main/assets/Screenshot%202022-11-11%20205926.jpg?raw=true)
+
+![Screenshot 2022-11-11 205926](https://user-images.githubusercontent.com/94048100/201468702-f43aa1f7-8949-471c-8856-9ee096703953.jpg)
 
 ### Step 5. Clone The Repository. or... download it as a ZIP
 - run this code in your terminal to clone the bot
