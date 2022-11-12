@@ -1,6 +1,7 @@
 export const Config = {
-  TOKEN:
-    "OTk1MTQyNjc0NDc2NzExOTU3.G9nTgA.QQakbin2dCSTBhz2oUisoDHPK0GaS-cqB1YSGw",
-  guildId: "1002949947542482954",
-  clientId: "995142674476711957",
+  TOKEN: "TOKEN_HERE", // Go grab the token from the dev portal
+
+  // THIS SECTION IS FOR UNDEPLOYMENT OF SLASH COMMANDS, USE IT IF YOU NEED IT
+  guildId: "guild_ID",
+  clientId: "BOT_ID",
 };
