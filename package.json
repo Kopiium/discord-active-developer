@@ -1,0 +1,35 @@
+{
+  "name": "discord-active-developer",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Discord Active Developer Badge with typescript support",
+  "main": "./dist/bot.js",
+  "scripts": {
+    "dev": "nodemon ./dist/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kopiium/discord-active-developer.git"
+  },
+  "keywords": [
+    "typescript",
+    "discord-badge",
+    "active-developer",
+    "typescript-bot",
+    "javascript-bot",
+    "active-developer-badge"
+  ],
+  "author": "Kopiium",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kopiium/discord-active-developer/issues"
+  },
+  "homepage": "https://github.com/Kopiium/discord-active-developer#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "typescript": "^4.8.4"
+  }
+}
